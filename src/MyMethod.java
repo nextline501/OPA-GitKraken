@@ -1,5 +1,5 @@
 public class MyMethod {
-    public void myMethod(){
+    public void myMethodConflict(){
         System.out.println("hej");
     }
 }
